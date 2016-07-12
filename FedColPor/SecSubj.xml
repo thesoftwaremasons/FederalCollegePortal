@@ -1,0 +1,37 @@
+﻿  <ListItems>
+  <ListItem>
+    <name>Mathematics</name>
+    </ListItem>
+  <ListItem><name>English Language</name></ListItem>
+  <ListItem><name>Agricultural Science</name></ListItem>
+  <ListItem><name>Applied Electricity</name></ListItem>
+  <ListItem><name>Auto Mechanics</name></ListItem>
+  <ListItem><name>Biology</name></ListItem>
+  <ListItem><name>Building Construction</name></ListItem>
+  <ListItem><name>Chemistry</name></ListItem>
+  <ListItem><name>Christian Religious Knowledge</name></ListItem>
+  <ListItem><name>Clothing and nameile</name></ListItem>
+  <ListItem><name>Commerce</name></ListItem>
+  <ListItem><name>Economics</name></ListItem>
+  <ListItem><name>Electronics</name></ListItem>
+  <ListItem><name>Financial Accounting</name></ListItem>
+  <ListItem><name>Foods and Nutrition</name></ListItem>
+  <ListItem><name>French</name></ListItem>
+  <ListItem><name>Further Mathematics</name></ListItem>
+  <ListItem><name>Geography</name></ListItem>
+  <ListItem><name>Government</name></ListItem>
+  <ListItem><name>Health Science</name></ListItem>
+  <ListItem><name>History</name></ListItem>
+  <ListItem><name>Home Management</name></ListItem>
+  <ListItem><name>Islamic Studies</name></ListItem>
+  <ListItem><name>Literature in English</name></ListItem>
+  <ListItem><name>Metalwork</name></ListItem>
+  <ListItem><name>Music</name></ListItem>
+  <ListItem><name>Physical Education</name></ListItem>
+  <ListItem><name>Physics</name></ListItem>
+  <ListItem><name>Shorthand</name></ListItem>
+  <ListItem><name>Technical Drawing</name></ListItem>
+  <ListItem><name>Typewriting</name></ListItem>
+  <ListItem><name>Visual Arts</name></ListItem>
+  <ListItem><name>Woodwork</name></ListItem>
+</ListItems>
